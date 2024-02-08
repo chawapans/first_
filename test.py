@@ -1,2 +1,2 @@
 print("first_")
-print("first_from GIT)
+print("first_from GIT")
